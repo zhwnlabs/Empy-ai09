@@ -2,7 +2,7 @@
   <img src="asset/banner.jpg" width="100%" alt="zhwnlabs profile banner">
 </p>
 
-<h1 align="center">Hi, I'm zhwnlabs</h1>
+<h1 align="center">Hi, I'm zahwan</h1>
 <p align="center">Exploring web development, automation, and open-source projects.</p>
 
 <p align="center">
