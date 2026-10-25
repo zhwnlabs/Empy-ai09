@@ -1,5 +1,5 @@
 {
-  "name": "empy-ai09-stats",
+  "name": "zhwnlabs-stats",
   "version": "1.0.0",
   "dependencies": {
     "node-fetch": "^2.6.7"

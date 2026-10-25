@@ -1,7 +1,7 @@
 const fs = require("fs");
 const fetch = require("node-fetch");
 
-const username = "Empy-ai09";
+const username = "zhwnlabs";
 const outputFile = "stats.json";
 
 async function countCommits(repo) {

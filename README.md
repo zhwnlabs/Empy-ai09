@@ -1,32 +1,24 @@
-# just scrolling and take my repo
+<p align="center">
+  <img src="asset/banner.jpg" width="100%" alt="zhwnlabs profile banner">
+</p>
+
+<h1 align="center">Hi, I'm zhwnlabs</h1>
+<p align="center">Exploring web development, automation, and open-source projects.</p>
 
 <p align="center">
-  <img src="asset/banner.jpg" width="600">
+  <a href="https://github.com/zhwnlabs"><img src="https://img.shields.io/badge/GitHub-zhwnlabs-181717?style=flat&logo=github" alt="GitHub: zhwnlabs"></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
 </p>
 
----
-
-## 💻 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=html5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-ffffff?style=flat&logo=php&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-ffffff?style=flat&logo=css3&logoColor=black"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Empy-ai09&theme=default">
-</p>
-
----
-
-## 📈 Commit Activity Graph & Stats
+<h2 align="center">GitHub Snapshot</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Empy-ai09&theme=transparent&hide_border=true&stroke=ffffff&ring=570df8&fire=570df8&currStreakLabel=ffffff" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zhwnlabs&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats for zhwnlabs">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhwnlabs&layout=compact&hide_border=true&theme=transparent" alt="Most used languages by zhwnlabs">
 </p>
+
 <p align="center">
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zhwnlabs&theme=transparent&hide_border=true" alt="GitHub contribution streak for zhwnlabs">
 </p>
