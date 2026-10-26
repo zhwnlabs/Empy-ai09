@@ -1,24 +1,19 @@
 {
-<<<<<<< HEAD
   "username": "zhwnlabs",
-  "totalStars": 1,
-  "totalCommits": 693,
-  "publicRepos": 15,
+  "totalStars": 2,
+  "totalCommits": 361,
+  "publicRepos": 16,
   "languages": {
-    "CSS": 38686,
-    "HTML": 91196,
-    "JavaScript": 45478,
+    "CSS": 39958,
+    "HTML": 92366,
+    "JavaScript": 44283,
     "Python": 12496,
+    "TypeScript": 16730,
+    "Java": 1301,
     "Shell": 23278,
-    "PHP": 10855
+    "PHP": 10855,
+    "message": "0API rate limit exceeded for 20.168.26.243. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+    "documentation_url": "0https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting"
   },
-  "updated": "2026-09-08T03:47:13.177Z"
-=======
-  "username": "Empy-ai09",
-  "totalStars": 0,
-  "totalCommits": 0,
-  "publicRepos": 0,
-  "languages": {},
-  "updated": "2026-10-25T03:52:44.264Z"
->>>>>>> 3a1c14cf1b3c1085095deba0835e8f758bf4e850
+  "updated": "2026-10-26T03:57:17.632Z"
 }
