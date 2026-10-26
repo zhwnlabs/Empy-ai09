@@ -6,7 +6,7 @@
   <summary><b>📁 About Me</b></summary>
   <br>
 
-  <h2>Hi, I'm Zahwan</h2>
+  <h2>hi, i'm zahwan</h2>
   <p>I’m just a kid with ADHD (maybe).
 I’m into a lot of things—photography, reading novels, and, most of all, creating new things... whatever they might be. I hate it when dozens of absurd ideas start piling up in my head; I just have to bring them to life, which is why I created this account. And I’m not solely focused here—I’m also working with Blender and CapCut.</p>
 
