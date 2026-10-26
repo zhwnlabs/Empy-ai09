@@ -3,12 +3,12 @@
 </p>
 
 <details>
-  <summary><b>📁 About Me</b></summary>
+  <summary><b>📁 about me</b></summary>
   <br>
 
   <h2>hi, i'm zahwan</h2>
   <p>I’m just a kid with ADHD (maybe).
-I’m into a lot of things—photography, reading novels, and, most of all, creating new things... whatever they might be. I hate it when dozens of absurd ideas start piling up in my head; I just have to bring them to life, which is why I created this account. And I’m not solely focused here—I’m also working with Blender and CapCut.</p>
+I’m into a lot of things—photography, reading novels, and, most of all, creating new things... whatever they might be. I hate it when dozens of absurd ideas start piling up in my head; I just have to bring them to life, which is why I created this account. And I’m not solely focused here—I’m also working with Blender and CapCut to make a content.</p>
 
   <h3 align="center">🖥️ Skills &amp; Tools</h3>
   <p align="center">
